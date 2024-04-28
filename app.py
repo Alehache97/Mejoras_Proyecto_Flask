@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template,request
 app = Flask(__name__)	
 
@@ -70,6 +71,6 @@ def detalles(identificador):
 
     return render_template("details.html", listaTallas=listaTallas, listaColores=listaColores)
 
-
-app.run("0.0.0.0",5000,debug=True)
+port=os.environ["PORT"]
+app.run("0.0.0.0", int(port),debug=True)
 
