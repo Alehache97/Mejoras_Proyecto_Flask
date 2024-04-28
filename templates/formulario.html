@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Búsqueda de artículos{% endblock %}
+{% block content %}
+    <!-- Contenedor principal -->
+    <div class="main-content">
+        <!-- Contenido del formulario de búsqueda -->
+        <h2>Búsqueda de Artículos</h2>
+        <form action="/formulario" method="post">
+            <label for="busqueda">Inserte un valor</label>
+            <input type="text" id="busqueda" name="busqueda" placeholder="Nombre del producto" value="{{ buscador }}">
+                        
+            <label for="genero">Género</label>
+            <select name="genero" id="genero">
+                <option value="" {% if not genero %}selected{% endif %}>Seleccione un género</option>
+                <option value="hombres" {% if genero == "hombres" %}selected{% endif %}>Hombres</option>
+                <option value="mujeres" {% if genero == "mujeres" %}selected{% endif %}>Mujeres</option>
+            </select>
+            
+            <label for="categoria">Categoría</label>
+            <select name="categoria" id="categoria">
+                <option value="" {% if not categoria %}selected{% endif %}>Seleccione una categoría</option>
+                <option value="zapatillas" {% if categoria == "zapatillas" %}selected{% endif %}>Zapatillas</option>
+                <option value="camisetas" {% if categoria == "camisetas" %}selected{% endif %}>Camisetas</option>
+                <option value="sudaderas" {% if categoria == "sudaderas" %}selected{% endif %}>Sudaderas</option>
+                <option value="pantalones" {% if categoria == "pantalones" %}selected{% endif %}>Pantalones</option>
+            </select>
+            
+            <button type="submit">Buscar</button>
+        </form>
+
+        {% if resultados %}
+            <h2>Resultados para '{{ buscador }}'</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Marca</th>
+                        <th>Precio</th>
+                        <th>Género</th>
+                        <th>Categoría</th>
+                        <th>Detalles</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for resultado in resultados %}
+                        <tr>
+                            <td>{{ resultado.id }}</td>
+                            <td>{{ resultado.nombre }}</td>
+                            <td>{{ resultado.marca }}</td>
+                            <td>{{ resultado.precio }}</td>
+                            <td>{{ resultado.genero }}</td>
+                            <td>{{ resultado.categoria }}</td>
+                            <td><a href="/details/{{ resultado.id }}">Detalle</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            {% if buscador %}
+                <p>No hay productos que comiencen por '{{ buscador }}'</p>
+            {% endif %}
+        {% endif %}
+    </div>
+{% endblock %}

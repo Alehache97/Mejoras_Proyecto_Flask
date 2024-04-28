@@ -1,0 +1,1610 @@
+{
+  "tienda": {
+    "nombre": "Alehache SHOP",
+    "ubicacion": "C/ Pineda, 20 ",
+    "localidad": "Alcala de Guadaira",
+    "provincia": "Sevilla",
+    "categorias": {
+      "zapatillas": {
+        "hombres": {
+          "productos": [
+            {
+              "id": 101,
+              "nombre": "Adidas Originals Handball Spezial",
+              "marca": "Adidas",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["42", "43", "44"],
+                "colores": ["negro", "blanco", "azul"]
+              }
+            },
+            {
+              "id": 102,
+              "nombre": "Adidas Originals Campus 00s",
+              "marca": "Adidas",
+              "precio": 89.99,
+              "detalles": {
+                "tallas": ["40", "41", "45"],
+                "colores": ["negro", "rojo", "blanco"]
+              }
+            },
+            {
+              "id": 103,
+              "nombre": "New Balance 327",
+              "marca": "New Balance",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["39", "41", "42", "43", "47"],
+                "colores": ["gris", "azul", "verde"]
+              }
+            },
+            {
+              "id": 104,
+              "nombre": "Nike Air Force 1 '07",
+              "marca": "Nike",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "45"],
+                "colores": ["negro", "azul", "verde"]
+              }
+            },
+            {
+              "id": 105,
+              "nombre": "Nike Air Max Dn",
+              "marca": "Nike",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["40", "44", "47", "43", "49"],
+                "colores": ["blanco", "rosa", "negro"]
+              }
+            },
+            {
+              "id": 106,
+              "nombre": "Nike React Vision",
+              "marca": "Nike",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["azul", "verde", "naranja"]
+              }
+            },
+            {
+              "id": 107,
+              "nombre": "Nike EA7 B&W 2.0",
+              "marca": "Nike",
+              "precio": 89.99,
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["negro", "gris", "rojo"]
+              }
+            },
+            {
+              "id": 108,
+              "nombre": "Vans Skate Low",
+              "marca": "Vans",
+              "precio": 99.99,
+              "detalles": {
+                "tallas": ["40", "43", "46", "48"],
+                "colores": ["negro", "blanco", "amarillo"]
+              }
+            },
+            {
+              "id": 109,
+              "nombre": "Vans 66/99/19 Rowley Classic",
+              "marca": "Vans",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["43", "44"],
+                "colores": ["blanco", "azul", "verde"]
+              }
+            },
+            {
+              "id": 110,
+              "nombre": "Jordan Air 1 Low",
+              "marca": "Jordan",
+              "precio": 129.99,
+              "detalles": {
+                "tallas": ["40", "41"],
+                "colores": ["gris", "azul", "verde"]
+              }
+            },
+            {
+              "id": 111,
+              "nombre": "Reebok Preseason 94 Low",
+              "marca": "Reebok",
+              "precio": 129.99,
+              "detalles": {
+                "tallas": ["40", "43", "47"],
+                "colores": ["rosa", "negro", "verde"]
+              }
+            },
+            {
+              "id": 112,
+              "nombre": "Puma Suede XL",
+              "marca": "Puma",
+              "precio": 129.99,
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["gris", "negro", "naranja"]
+              }
+            },
+            {
+              "id": 113,
+              "nombre": "Vans World Show",
+              "marca": "Vans",
+              "precio": 129.99,
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["violeta", "negro", "verde"]
+              }
+            },
+            {
+              "id": 114,
+              "nombre": "Converse Chuck Taylor All Star Hi",
+              "marca": "Converse",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["negro", "blanco", "rojo"]
+              }
+            },
+            {
+              "id": 115,
+              "nombre": "Adidas Stan Smith",
+              "marca": "Adidas",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["38", "39", "40", "41", "42"],
+                "colores": ["blanco", "verde", "azul"]
+              }
+            },
+            {
+              "id": 116,
+              "nombre": "Nike Blazer Mid '77 Vintage",
+              "marca": "Nike",
+              "precio": 89.99,
+              "detalles": {
+                "tallas": ["42", "43", "44", "45", "46"],
+                "colores": ["blanco", "negro", "gris"]
+              }
+            },
+            {
+              "id": 117,
+              "nombre": "Reebok Classic Leather",
+              "marca": "Reebok",
+              "precio": 99.99,
+              "detalles": {
+                "tallas": ["39", "40", "41", "42", "43"],
+                "colores": ["blanco", "rojo", "azul"]
+              }
+            },
+            {
+              "id": 118,
+              "nombre": "Puma RS-X3",
+              "marca": "Puma",
+              "precio": 109.99,
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["negro", "azul", "verde"]
+              }
+            },
+            {
+              "id": 121,
+              "nombre": "Fila Disruptor II",
+              "marca": "Fila",
+              "precio": 89.99,
+
+              "detalles": {
+                "tallas": ["38", "39", "40", "41", "42"],
+                "colores": ["blanco", "negro", "rojo"]
+              }
+            },
+            {
+              "id": 122,
+              "nombre": "Adidas Gazelle",
+              "marca": "Adidas",
+              "precio": 99.99,
+
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["negro", "rojo", "azul"]
+              }
+            },
+            {
+              "id": 123,
+              "nombre": "Nike Air Max 90",
+              "marca": "Nike",
+              "precio": 129.99,
+
+              "detalles": {
+                "tallas": ["42", "43", "44", "45", "46"],
+                "colores": ["blanco", "negro", "gris"]
+              }
+            },
+            {
+              "id": 124,
+              "nombre": "New Balance 550",
+              "marca": "New Balance",
+              "precio": 129.99,
+
+              "detalles": {
+                "tallas": ["40", "41", "42", "43", "44"],
+                "colores": ["azul", "gris", "verde"]
+              }
+            }
+          ]
+        },
+        "mujeres": {
+          "productos": [
+            {
+              "id": 125,
+              "nombre": "Adidas Sleek Women's Edition",
+              "marca": "Adidas",
+              "precio": 89.99,
+              "detalles": {
+                "tallas": ["36", "37"],
+                "colores": ["blanco", "rosa"]
+              }
+            },
+            {
+              "id": 126,
+              "nombre": "Nike Air Zoom Pegasus Women's Style",
+              "marca": "Nike",
+              "precio": 99.99,
+              "detalles": {
+                "tallas": ["38", "39", "40"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 127,
+              "nombre": "New Balance FuelCore Nergize Women's Collection",
+              "marca": "New Balance",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["37", "38", "39"],
+                "colores": ["azul", "verde"]
+              }
+            },
+            {
+              "id": 128,
+              "nombre": "Adidas NMD_R1 Sky",
+              "marca": "Adidas",
+              "precio": 129.99,
+              "detalles": {
+                "tallas": ["37", "38", "39"],
+                "colores": ["negro", "rosa"]
+              }
+            },
+            {
+              "id": 129,
+              "nombre": "Nike React Infinity Run Flyknit Women's Edition",
+              "marca": "Nike",
+              "precio": 119.99,
+              "detalles": {
+                "tallas": ["36", "38", "40"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 130,
+              "nombre": "Vans SK8-Hi Nani",
+              "marca": "Vans",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["36", "39", "40"],
+                "colores": ["negro", "rojo"]
+              }
+            },
+            {
+              "id": 131,
+              "nombre": "Puma Cali Neymar",
+              "marca": "Puma",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["37", "38", "39"],
+                "colores": ["blanco", "rosa"]
+              }
+            },
+            {
+              "id": 132,
+              "nombre": "Adidas Superstar Tinki",
+              "marca": "Adidas",
+              "precio": 99.99,
+              "detalles": {
+                "tallas": ["36", "38", "40"],
+                "colores": ["negro", "blanco"]
+              }
+            },
+            {
+              "id": 133,
+              "nombre": "Nike Air Max 35",
+              "marca": "Nike",
+              "precio": 119.99,
+              "detalles": {
+                "tallas": ["37", "39", "40"],
+                "colores": ["blanco", "azul"]
+              }
+            },
+            {
+              "id": 134,
+              "nombre": "Vans Old Rose",
+              "marca": "Vans",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["36", "38", "40"],
+                "colores": ["negro", "blanco"]
+              }
+            },
+            {
+              "id": 135,
+              "nombre": "Puma Suede Pink",
+              "marca": "Puma",
+              "precio": 89.99,
+              "detalles": {
+                "tallas": ["37", "39", "40"],
+                "colores": ["negro", "rosa"]
+              }
+            },
+            {
+              "id": 136,
+              "nombre": "New Balance 666",
+              "marca": "New Balance",
+              "precio": 109.99,
+              "detalles": {
+                "tallas": ["36", "38", "40"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 137,
+              "nombre": "Adidas Gazelle Lips",
+              "marca": "Adidas",
+              "precio": 89.99,
+              "detalles": {
+                "tallas": ["37", "39", "40"],
+                "colores": ["rosa", "azul"]
+              }
+            },
+            {
+              "id": 138,
+              "nombre": "Nike Blazer Women's Pink",
+              "marca": "Nike",
+              "precio": 109.99,
+              "detalles": {
+                "tallas": ["36", "38", "40"],
+                "colores": ["negro", "blanco"]
+              }
+            },
+            {
+              "id": 139,
+              "nombre": "Vans Authentic Girl",
+              "marca": "Vans",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["36", "38", "40"],
+                "colores": ["blanco", "negro"]
+              }
+            },
+            {
+              "id": 140,
+              "nombre": "Puma RS-X Baby",
+              "marca": "Puma",
+              "precio": 129.99,
+              "detalles": {
+                "tallas": ["37", "39", "40"],
+                "colores": ["rosa", "negro"]
+              }
+            },
+            {
+              "id": 141,
+              "nombre": "Adidas Samba",
+              "marca": "Adidas",
+              "precio": 70.99,
+              "detalles": {
+                "tallas": ["37", "39", "40"],
+                "colores": ["azul", "negro"]
+              }
+            },
+            {
+              "id": 142,
+              "nombre": "New Balance 9060",
+              "marca": "New Balance",
+              "precio": 99.99,
+              "detalles": {
+                "tallas": ["37", "39", "40"],
+                "colores": ["naranja", "gris"]
+              }
+            },
+            {
+              "id": 143,
+              "nombre": "New Balance 327 ",
+              "marca": "New Balance",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["37", "39", "40"],
+                "colores": ["verde", "negro"]
+              }
+            }
+          ]
+        }      
+      },
+      "camisetas": {
+        "hombres": {
+          "productos": [
+            {
+              "id": 144,
+              "nombre": "Adidas Originals Trefoil Tee",
+              "marca": "Adidas",
+              "precio": 29.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["blanco", "negro"]
+              }
+            },
+            {
+              "id": 145,
+              "nombre": "Nike Sportswear Club Tee",
+              "marca": "Nike",
+              "precio": 34.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 146,
+              "nombre": "Vans Classic T-Shirt",
+              "marca": "Vans",
+              "precio": 27.99,
+
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "blanco"]
+              }
+            },
+            {
+              "id": 147,
+              "nombre": "Puma Essentials Logo Tee",
+              "marca": "Puma",
+              "precio": 25.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["rojo", "azul"]
+              }
+            },
+            {
+              "id": 148,
+              "nombre": "New Balance Essentials Stacked Logo Tee",
+              "marca": "New Balance",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "verde"]
+              }
+            },
+            {
+              "id": 149,
+              "nombre": "Adidas Badge of Sport Tee",
+              "marca": "Adidas",
+              "precio": 29.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 150,
+              "nombre": "Nike Just Do It Swoosh Tee",
+              "marca": "Nike",
+              "precio": 28.99,
+              "detalles": {
+                "tallas": ["S", "XXL"],
+                "colores": ["blanco", "negro"]
+              }
+            },
+            {
+              "id": 151,
+              "nombre": "Vans OTW Classic Tee",
+              "marca": "Vans",
+              "precio": 27.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["rojo", "azul"]
+              }
+            },
+            {
+              "id": 152,
+              "nombre": "Puma Archive Logo Tee",
+              "marca": "Puma",
+              "precio": 25.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "verde"]
+              }
+            },
+            {
+              "id": 153,
+              "nombre": "New Balance Athletics Tee",
+              "marca": "New Balance",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["L", "XXL"],
+                "colores": ["negro", "blanco"]
+              }
+            },
+            {
+              "id": 154,
+              "nombre": "Adidas Linear Logo Tee",
+              "marca": "Adidas",
+              "precio": 19.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "rojo"]
+              }
+            },
+            {
+              "id": 155,
+              "nombre": "Nike Futura Icon Tee",
+              "marca": "Nike",
+              "precio": 34.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["verde", "negro"]
+              }
+            },
+            {
+              "id": 156,
+              "nombre": "Vans Classic Patch Tee",
+              "marca": "Vans",
+              "precio": 27.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["blanco", "gris"]
+              }
+            },
+            {
+              "id": 157,
+              "nombre": "Puma No.1 Logo Tee",
+              "marca": "Puma",
+              "precio": 25.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["azul", "negro"]
+              }
+            },
+            {
+              "id": 158,
+              "nombre": "New Balance Classic NB Logo Tee",
+              "marca": "New Balance",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "rojo"]
+              }
+            },
+            {
+              "id": 159,
+              "nombre": "Adidas Originals California Tee",
+              "marca": "Adidas",
+              "precio": 29.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["azul", "verde"]
+              }
+            },
+            {
+              "id": 160,
+              "nombre": "Nike Sportswear Essential Tee",
+              "marca": "Nike",
+              "precio": 34.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "blanco"]
+              }
+            },
+            {
+              "id": 161,
+              "nombre": "Vans Classic T-Shirt II",
+              "marca": "Vans",
+              "precio": 27.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["blanco", "rojo"]
+              }
+            },
+            {
+              "id": 162,
+              "nombre": "Puma Amplified Big Logo Tee",
+              "marca": "Puma",
+              "precio": 25.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 163,
+              "nombre": "New Balance Essentials Icon Tee",
+              "marca": "New Balance",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["negro", "gris"]
+              }
+            }
+          ]
+        },
+        "mujeres": {
+          "productos": [
+            {
+              "id": 164,
+              "nombre": "Adidas Originals Floral Tee",
+              "marca": "Adidas",
+              "precio": 34.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rosa", "blanco"]
+              }
+            },
+            {
+              "id": 165,
+              "nombre": "Nike Swoosh Blossom Tee",
+              "marca": "Nike",
+              "precio": 39.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["azul", "verde"]
+              }
+            },
+            {
+              "id": 166,
+              "nombre": "Vans Floral Dream Tee",
+              "marca": "Vans",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "rosa"]
+              }
+            },
+            {
+              "id": 167,
+              "nombre": "Puma Graphic Bloom Tee",
+              "marca": "Puma",
+              "precio": 29.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["verde", "azul"]
+              }
+            },
+            {
+              "id": 168,
+              "nombre": "New Balance Floral Print Tee",
+              "marca": "New Balance",
+              "precio": 36.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 169,
+              "nombre": "Adidas Originals Blossom Tee",
+              "marca": "Adidas",
+              "precio": 34.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["blanco", "rosa"]
+              }
+            },
+            {
+              "id": 170,
+              "nombre": "Nike Flower Power Tee",
+              "marca": "Nike",
+              "precio": 39.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["verde", "azul"]
+              }
+            },
+            {
+              "id": 171,
+              "nombre": "Vans Botanical Beauty Tee",
+              "marca": "Vans",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["rosa", "negro"]
+              }
+            },
+            {
+              "id": 172,
+              "nombre": "Puma Floral Fantasy Tee",
+              "marca": "Puma",
+              "precio": 29.99,
+
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["azul", "verde"]
+              }
+            },
+            {
+              "id": 173,
+              "nombre": "New Balance Flower Burst Tee",
+              "marca": "New Balance",
+              "precio": 36.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 174,
+              "nombre": "Adidas Originals Petal Tee",
+              "marca": "Adidas",
+              "precio": 34.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rosa", "blanco"]
+              }
+            },
+            {
+              "id": 175,
+              "nombre": "Nike Floral Harmony Tee",
+              "marca": "Nike",
+              "precio": 39.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["azul", "verde"]
+              }
+            },
+            {
+              "id": 176,
+              "nombre": "Vans Bloom Burst Tee",
+              "marca": "Vans",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "rosa"]
+              }
+            },
+            {
+              "id": 177,
+              "nombre": "Puma Garden Glow Tee",
+              "marca": "Puma",
+              "precio": 29.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["verde", "azul"]
+              }
+            },
+            {
+              "id": 178,
+              "nombre": "New Balance Blossom Beauty Tee",
+              "marca": "New Balance",
+              "precio": 36.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 179,
+              "nombre": "Adidas Originals Flower Frenzy Tee",
+              "marca": "Adidas",
+              "precio": 34.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["blanco", "rosa"]
+              }
+            },
+            {
+              "id": 180,
+              "nombre": "Nike Floral Flair Tee",
+              "marca": "Nike",
+              "precio": 39.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["verde", "azul"]
+              }
+            },
+            {
+              "id": 181,
+              "nombre": "Vans Floral Fantasy Tee",
+              "marca": "Vans",
+              "precio": 32.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["rosa", "negro"]
+              }
+            },
+            {
+              "id": 182,
+              "nombre": "Puma Botanical Beauty Tee",
+              "marca": "Puma",
+              "precio": 29.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["azul", "verde"]
+              }
+            },
+            {
+              "id": 183,
+              "nombre": "New Balance Flower Burst Tee",
+              "marca": "New Balance",
+              "precio": 36.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["negro", "gris"]
+              }
+            }
+          ]
+        }
+      },
+      "sudaderas": {
+        "hombres": {
+          "productos": [
+            {
+              "id": 184,
+              "nombre": "Adidas Originals Street Fleece",
+              "marca": "Adidas",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "blanco"]
+              }
+            },
+            {
+              "id": 185,
+              "nombre": "Nike Sportswear Tech Fleece Pullover",
+              "marca": "Nike",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 186,
+              "nombre": "Vans Core Basics Pullover Hoodie",
+              "marca": "Vans",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 187,
+              "nombre": "Puma Essentials Fleece Hoodie",
+              "marca": "Puma",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["rojo", "negro"]
+              }
+            },
+            {
+              "id": 188,
+              "nombre": "New Balance Essentials Pullover Hoodie",
+              "marca": "New Balance",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["verde", "gris"]
+              }
+            },
+            {
+              "id": 189,
+              "nombre": "Adidas Originals Logo Fleece Hoodie",
+              "marca": "Adidas",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["azul", "blanco"]
+              }
+            },
+            {
+              "id": 190,
+              "nombre": "Nike Club Fleece Pullover Hoodie",
+              "marca": "Nike",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 191,
+              "nombre": "Vans Classic Checkerboard Hoodie",
+              "marca": "Vans",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 192,
+              "nombre": "Puma Amplified Fleece Hoodie",
+              "marca": "Puma",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["rojo", "negro"]
+              }
+            },
+            {
+              "id": 193,
+              "nombre": "New Balance Essentials Logo Hoodie",
+              "marca": "New Balance",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["verde", "gris"]
+              }
+            },
+            {
+              "id": 194,
+              "nombre": "Adidas Originals Camo Fleece Pullover",
+              "marca": "Adidas",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "blanco"]
+              }
+            },
+            {
+              "id": 195,
+              "nombre": "Nike Therma Hoodie",
+              "marca": "Nike",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 196,
+              "nombre": "Vans Classic Logo Hoodie",
+              "marca": "Vans",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 197,
+              "nombre": "Puma Essential Fleece Hoodie",
+              "marca": "Puma",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["rojo", "negro"]
+              }
+            },
+            {
+              "id": 198,
+              "nombre": "New Balance Athletics Pullover Hoodie",
+              "marca": "New Balance",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["verde", "gris"]
+              }
+            },
+            {
+              "id": 199,
+              "nombre": "Adidas Originals Graphic Fleece Pullover",
+              "marca": "Adidas",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["L", "XL"],
+                "colores": ["azul", "blanco"]
+              }
+            },
+            {
+              "id": 200,
+              "nombre": "Nike Therma-FIT Training Hoodie",
+              "marca": "Nike",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "gris"]
+              }
+            }
+          ]
+        },
+        "mujeres": {
+          "productos": [
+            {
+              "id": 201,
+              "nombre": "Adidas Originals Cozy Women's Hoodie",
+              "marca": "Adidas",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rosa", "blanco"]
+              }
+            },
+            {
+              "id": 202,
+              "nombre": "Nike Sportswear Rally Women's Crew",
+              "marca": "Nike",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 203,
+              "nombre": "Vans Classic Women's Logo Hoodie",
+              "marca": "Vans",
+              "precio": 44.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 204,
+              "nombre": "Puma Essentials Women's Fleece Hoodie",
+              "marca": "Puma",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["rojo", "negro"]
+              }
+            },
+            {
+              "id": 205,
+              "nombre": "New Balance Essentials Women's Pullover Hoodie",
+              "marca": "New Balance",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["verde", "gris"]
+              }
+            },
+            {
+              "id": 206,
+              "nombre": "Adidas Originals Women's Logo Fleece Pullover",
+              "marca": "Adidas",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["rosa", "blanco"]
+              }
+            },
+            {
+              "id": 207,
+              "nombre": "Nike Women's Club Fleece Pullover Hoodie",
+              "marca": "Nike",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 208,
+              "nombre": "Vans Women's Classic Checkerboard Hoodie",
+              "marca": "Vans",
+              "precio": 44.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 209,
+              "nombre": "Puma Amplified Women's Fleece Hoodie",
+              "marca": "Puma",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rojo", "negro"]
+              }
+            },
+            {
+              "id": 210,
+              "nombre": "New Balance Women's Essentials Logo Hoodie",
+              "marca": "New Balance",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["verde", "gris"]
+              }
+            },
+            {
+              "id": 211,
+              "nombre": "Adidas Originals Women's Camo Fleece Pullover",
+              "marca": "Adidas",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rosa", "blanco"]
+              }
+            },
+            {
+              "id": 212,
+              "nombre": "Nike Women's Therma Hoodie",
+              "marca": "Nike",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 213,
+              "nombre": "Vans Women's Classic Logo Hoodie",
+              "marca": "Vans",
+              "precio": 44.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 214,
+              "nombre": "Puma Women's Essential Fleece Hoodie",
+              "marca": "Puma",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rojo", "negro"]
+              }
+            },
+            {
+              "id": 215,
+              "nombre": "New Balance Women's Athletics Pullover Hoodie",
+              "marca": "New Balance",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["verde", "gris"]
+              }
+            },
+            {
+              "id": 216,
+              "nombre": "Adidas Originals Women's Graphic Fleece Pullover",
+              "marca": "Adidas",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rosa", "blanco"]
+              }
+            },
+            {
+              "id": 217,
+              "nombre": "Nike Women's Therma-FIT Training Hoodie",
+              "marca": "Nike",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 218,
+              "nombre": "Vans Women's Classic Logo Hoodie",
+              "marca": "Vans",
+              "precio": 44.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 219,
+              "nombre": "Puma Women's Amplified Fleece Hoodie",
+              "marca": "Puma",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["rojo", "negro"]
+              }
+            },
+            {
+              "id": 220,
+              "nombre": "New Balance Women's Essentials Logo Hoodie",
+              "marca": "New Balance",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["verde", "gris"]
+              }
+            }
+          ]
+        }
+      },
+      "pantalones": {
+        "hombres": {
+          "productos": [
+            {
+              "id": 221,
+              "nombre": "Adidas Originals Men's Track Pants",
+              "marca": "Adidas",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 222,
+              "nombre": "Nike Sportswear Tech Fleece Joggers",
+              "marca": "Nike",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 223,
+              "nombre": "Vans Core Basics Sweatpants",
+              "marca": "Vans",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 224,
+              "nombre": "Puma Essentials Fleece Pants",
+              "marca": "Puma",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 225,
+              "nombre": "New Balance Essentials Stacked Logo Sweatpants",
+              "marca": "New Balance",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 226,
+              "nombre": "Adidas Originals Men's Joggers",
+              "marca": "Adidas",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 227,
+              "nombre": "Nike Men's Club Joggers",
+              "marca": "Nike",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 228,
+              "nombre": "Vans Core Basics Sweatpants",
+              "marca": "Vans",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 229,
+              "nombre": "Puma Essentials Fleece Pants",
+              "marca": "Puma",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 230,
+              "nombre": "New Balance Essentials Stacked Logo Sweatpants",
+              "marca": "New Balance",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 231,
+              "nombre": "Adidas Originals Men's Track Pants",
+              "marca": "Adidas",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 232,
+              "nombre": "Nike Sportswear Tech Fleece Joggers",
+              "marca": "Nike",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 233,
+              "nombre": "Vans Core Basics Sweatpants",
+              "marca": "Vans",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 234,
+              "nombre": "Puma Essentials Fleece Pants",
+              "marca": "Puma",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 235,
+              "nombre": "New Balance Essentials Stacked Logo Sweatpants",
+              "marca": "New Balance",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 236,
+              "nombre": "Adidas Originals Men's Joggers",
+              "marca": "Adidas",
+              "precio": 69.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 237,
+              "nombre": "Nike Men's Club Joggers",
+              "marca": "Nike",
+              "precio": 79.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 238,
+              "nombre": "Vans Core Basics Sweatpants",
+              "marca": "Vans",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 239,
+              "nombre": "Puma Essentials Fleece Pants",
+              "marca": "Puma",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["M", "L"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 240,
+              "nombre": "New Balance Essentials Stacked Logo Sweatpants",
+              "marca": "New Balance",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "gris"]
+              }
+            }
+          ]
+        },
+        "mujeres": {
+          "productos": [
+            {
+              "id": 241,
+              "nombre": "Adidas Women's Urban Track Pants",
+              "marca": "Adidas",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 242,
+              "nombre": "Nike Women's Tech Fleece Joggers",
+              "marca": "Nike",
+              "precio": 74.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 243,
+              "nombre": "Vans Women's Urban Sweatpants",
+              "marca": "Vans",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 244,
+              "nombre": "Puma Women's Cozy Fleece Pants",
+              "marca": "Puma",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 245,
+              "nombre": "New Balance Women's Logo Sweatpants",
+              "marca": "New Balance",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 246,
+              "nombre": "Adidas Women's Urban Track Pants",
+              "marca": "Adidas",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 247,
+              "nombre": "Nike Women's Tech Fleece Joggers",
+              "marca": "Nike",
+              "precio": 74.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 248,
+              "nombre": "Vans Women's Urban Sweatpants",
+              "marca": "Vans",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 249,
+              "nombre": "Puma Women's Cozy Fleece Pants",
+              "marca": "Puma",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 250,
+              "nombre": "New Balance Women's Logo Sweatpants",
+              "marca": "New Balance",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 251,
+              "nombre": "Adidas Women's Urban Track Pants",
+              "marca": "Adidas",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 252,
+              "nombre": "Nike Women's Tech Fleece Joggers",
+              "marca": "Nike",
+              "precio": 74.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["gris", "negro"]
+              }
+            },
+            {
+              "id": 253,
+              "nombre": "Vans Women's Urban Sweatpants",
+              "marca": "Vans",
+              "precio": 54.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["gris", "azul"]
+              }
+            },
+            {
+              "id": 254,
+              "nombre": "Puma Women's Cozy Fleece Pants",
+              "marca": "Puma",
+              "precio": 59.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["negro", "gris"]
+              }
+            },
+            {
+              "id": 255,
+              "nombre": "New Balance Women's Logo Sweatpants",
+              "marca": "New Balance",
+              "precio": 49.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["azul", "gris"]
+              }
+            },
+            {
+              "id": 256,
+              "nombre": "Adidas Women's Urban Track Pants",
+              "marca": "Adidas",
+              "precio": 64.99,
+              "detalles": {
+                "tallas": ["XS", "S"],
+                "colores": ["negro", "azul"]
+              }
+            },
+            {
+              "id": 257,
+              "nombre": "Nike Women's Tech Fleece Joggers",
+              "marca": "Nike",
+              "precio": 74.99,
+              "detalles": {
+                "tallas": ["S", "M"],
+                "colores": ["azul", "gris"]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+
+
+
+

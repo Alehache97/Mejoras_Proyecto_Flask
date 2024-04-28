@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Details{% endblock %}
+{% block content %}
+ <!-- Contenedor principal -->
+ <div class="main-content">
+    <!-- Contenido de la página principal -->
+    <h2>Details del producto </h2>
+
+    <p>Talla disponibles:</p>
+    {% for i in listaTallas -%}
+        <p><b>{{ i.tallas }}</b></p>
+    {% endfor -%}  
+    <p>Colores disponibles:</p>
+    {% for i in listaColores -%}
+        <p><b>{{ i.colores }}</b></p>
+    {% endfor -%}
+    <a href="/formulario">Realizar otra búsqueda</a>  
+
+</div>
+{% endblock %}

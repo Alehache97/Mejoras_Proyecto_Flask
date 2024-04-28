@@ -1,0 +1,137 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Estilos para el encabezado */
+#header {
+    background-color: #333; /* Color de fondo oscuro */
+    color: #fff; /* Color del texto blanco */
+    padding: 20px 0; /* Espaciado interno */
+    text-align: center; /* Alineación del texto al centro */
+}
+
+/* Estilos para el título */
+#header h1 {
+    margin: 0; /* Eliminar márgenes */
+    font-size: 3em; /* Tamaño de fuente grande */
+    font-family: 'Impact', sans-serif; /* Fuente de impacto */
+    text-transform: uppercase; /* Convertir texto en mayúsculas */
+    letter-spacing: 3px; /* Espaciado entre letras */
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8); /* Sombra de texto */
+}
+
+/* Estilos para la barra de navegación */
+#nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+#nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+    font-size: 1.2em;
+}
+
+#nav ul li a:hover {
+    color: #ff6600;
+}
+
+#main {
+    flex: 1;
+    padding: 20px; /* Ajusta el espaciado interno según sea necesario */
+}
+
+body.left-sidebar.is-preload {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+#page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 100px; /* Añade un margen inferior para dejar espacio para el footer */
+}
+
+.main-content h2 {
+    color: #333;
+}
+
+.main-content p {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.main-content img {
+    width: 200px; /* Restablece el ancho de la imagen a su tamaño original */
+    max-width: 100%; /* Asegura que la imagen no se desborde del contenedor */
+}
+
+/* Estilos para el pie de página */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    z-index: 999; /* Asegura que el footer esté por encima del contenido */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #dddddd;
+    font-family: Arial, sans-serif;
+  }
+  
+  thead th {
+    background-color: #f2f2f2;
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  tbody td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  
